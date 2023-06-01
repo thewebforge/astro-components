@@ -1,0 +1,22 @@
+{
+  "name": "@thewebforge/astro-components",
+  "version": "0.1.0",
+  "description": "A library of simple to use, accessible astro components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cbontems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thewebforge/astro-components/issues"
+  },
+  "homepage": "https://github.com/thewebforge/astro-components#readme",
+  "keywords": [
+    "astro",
+    "components",
+    "library",
+    "accessibility",
+    "a11y"
+  ]
+}
