@@ -1,8 +1,11 @@
 {
+  "type": "module",
   "name": "@thewebforge/astro-components",
   "version": "0.1.0",
   "description": "A library of simple to use, accessible astro components.",
-  "main": "index.js",
+  "exports": "./index.js",
+  "main": "./index.js",
+  "types": "./types",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +21,9 @@
     "library",
     "accessibility",
     "a11y"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "prettier-plugin-astro": "^0.10.0"
+  }
 }

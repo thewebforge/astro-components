@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./components/*"]
+    },
+    "jsx": "preserve",
+    "skipLibCheck": false
+  }
+}
